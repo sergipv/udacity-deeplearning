@@ -1,4 +1,4 @@
-# udacity-deeplearning
+# Udacity Deep Learning
 Repository for Udacity's deep learning nanodegree.
 
 This nanodegree is a hands-on and practical introduction to applied ML with tensorflow. There are 4 different topics tackled in the nanodegree:
